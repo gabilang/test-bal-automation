@@ -1,0 +1,8 @@
+[package]
+org = "gabilan"
+name = "test_bal_automation"
+version = "0.1.0"
+distribution = "2201.9.3"
+
+[build-options]
+observabilityIncluded = true
